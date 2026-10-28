@@ -22,5 +22,5 @@ The goal is to understand the threat model — not to weaponize it.
 9Tails is a security research team focused on understanding offensive techniques to build better defenses. Find us on GitHub: github.com/9tails
 
 ⚖️ License
-MIT — for educational use only. See the disclaimer above.
+CC — for educational use only. See the disclaimer above.
 
