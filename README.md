@@ -54,6 +54,12 @@ The goal is to understand the threat model — not to weaponize it.
 
 **9Tails** is a security research team focused on understanding offensive techniques to build better defenses. Find us on GitHub: `github.com/9tails`
 
+
+## Running Code
+ code will not run without a file on your desktop called fox_sandbox when that is done run python fixed_foxed_sim.py
+ to decrypt run python foxed_decrpytor.py private_key.pem
+
+
 ## ⚖️ License
 
 This project is licensed under **Creative Commons**. See the [LICENSE](LICENSE) file for details.
